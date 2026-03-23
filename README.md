@@ -1,2 +1,3 @@
-just messin around 
-tried drawing something close to neural networks
+##just messin around 
+
+## tried drawing something close to neural networks
