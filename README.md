@@ -8,5 +8,4 @@ Beginner-friendly code
 
 ##🛠️ Tech Used
 Python
-(Add this if you used one:)
 matplotlib / networkx
