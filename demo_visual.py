@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 
 import networkx as nx
+print("neural networks")
 
 # create graph
 G = nx.DiGraph()
