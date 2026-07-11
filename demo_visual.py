@@ -42,3 +42,4 @@ nx.draw(
 
 plt.title("Simple Neural Network Visualization")
 plt.show()
+print("mujhe nini ari h")
